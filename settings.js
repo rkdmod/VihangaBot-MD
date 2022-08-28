@@ -21,19 +21,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
+global.owner = ['94701371447']
+global.premium = ['94701371447']
+global.ownernomer = '94701371447'
+global.ownername = 'ʀᴋᴅ BoT͢͢͢s'
+global.botname = 'ʀᴋᴅ BoT͢͢͢s'
+global.footer = 'ʀᴋᴅ BoT͢͢͢s'
+global.cap = '*Genarated By ʀᴋᴅ BoT͢͢͢s*'
+global.ig = 'https://youtube.com/channel/UCcfj3iylvIcmVVM-8jNwomQ'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.sc = 'https://youtube.com/channel/UCcfj3iylvIcmVVM-8jNwomQ'
+global.myweb = 'https://chat.whatsapp.com/D3FP34Pe08l4W3mMRR2h21'
+global.packname = 'ʀᴋᴅ BoT͢͢͢s'
+global.author = 'ʀᴋᴅ BoT͢͢͢s'
 global.autobio = 'true'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -46,8 +46,8 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'ටිකක් ඉන්න...',
-    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔!',
+    wait: 'ටිකක් ඉන්න ʀᴋᴅ BoT͢͢͢s',
+    error: 'අව්ලක්.වීඩියො එක ලොකු වැඩි ඇති🤔ʀᴋᴅ BoT͢͢͢s!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
